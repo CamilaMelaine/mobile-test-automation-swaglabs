@@ -37,7 +37,7 @@ Automatizar fluxos funcionais no app **Swag Labs** (Sauce Labs Sample App), incl
 - Appium e driver UiAutomator2 instalados
 - APK do Swag Labs App instalado no emulador ([Sauce Labs Sample App](https://github.com/saucelabs/sample-app-mobile))
 
-## ▶️ Como executar
+## Como executar
 
 git clone https://github.com/CamilaMelaine/mobile-test-automation-swaglabs.git
 cd mobile-test-automation-swaglabs
